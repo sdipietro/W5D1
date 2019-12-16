@@ -1,0 +1,46 @@
+div {
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  border: 5px solid black; 
+}
+
+#new-div{
+  display: table;
+  /* overflow: auto; */
+  height: 10px;
+}
+#paragraph{
+  display: table-row;
+}
+
+
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+}
+
+p {
+  background-color: #7fdbff;
+}
+
+.image-1-container{
+  height:600px; 
+  width:200px;
+  background: blue;
+}
+
+.image-2-container{
+  display: table;
+  height:600px; 
+  width:200px;
+  background: blue;
+} 
+
+#cat2{
+  display:table-row;
+}
